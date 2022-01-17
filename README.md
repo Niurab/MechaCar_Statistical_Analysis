@@ -51,3 +51,19 @@ PSI lot 3
 
 ## Delivearble 4
 
+## Study Design: MechaCar vs Competition
+
+Some of the deciding factors people consider when buying a car include the MPG, the horsepower and the size of the engine. The null hypothesis (Ho) might go thus: there is no statistical significant difference between MechaCar and competition and the alternative hypothesis (Ha) that there is significant difference. The t-test can be used after collecting data from different competitors.
+
+### Metrics
+
+The following metrics can be used after collecting the data:
+
+Independent variables: safety feature rating, drive package, engine type(size), resale value, annual cost of ownership and MPG
+Dependent Variable: current price.
+
+### Test
+
+Multiple regression analysis can be used based on the identified indepedent and dependent variables.
+
+
