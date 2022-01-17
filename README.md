@@ -8,9 +8,15 @@
 
 Non-random amount of variance are provided by vehicle weight, spoiler_angle & AWD.
 
+![1](https://user-images.githubusercontent.com/91093413/149689090-e48ba0ad-cca9-4ae7-9856-53acd7243d12.png)
+
+
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
 The slope or intercept of the multiple regression model is negative with a value of -1.04.
+
+![slope and intercept](https://user-images.githubusercontent.com/91093413/149689112-971d06d6-1588-4246-b3c6-a0e07bcee898.png)
+
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
