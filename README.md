@@ -33,7 +33,7 @@ Lot 3 variance exceeded the specified 100 pounds per square inch while lot 1 and
 
 ## T-Tests on Suspension Coils
 
-Lot 1 and Lot 3 the PSI values are not different from the population mean. However lot 2 the p-value is .347 which means there is evidence that the suspension coil is different from the population mean. All t-tests can be seen below:
+Lot 2 and lot 3 P-values are 0.6072 and 0.04168 respectively while lot 1 P-Value is qual to 1. The P-value across all lot is 0.06028. All t-tests can be seen below:
 
 PSI across all lots
 
