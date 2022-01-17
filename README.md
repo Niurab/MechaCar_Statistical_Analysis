@@ -28,6 +28,8 @@ The multiple R-squared value is 0.7149 or 71%. This means the model will predict
 
 Lot 3 variance exceeded the specified 100 pounds per square inch while lot 1 and lot 2 are within the design requirements for the first 100 cases.
 
+![Lot summary](https://user-images.githubusercontent.com/91093413/149689705-de7312b1-2014-4916-85e2-f3cb47a5b8b9.png)
+
 
 ## Deliverable 3
 
